@@ -1,8 +1,29 @@
 {
-  "culture": "en",
-  "texts": {
+  "Culture": "en",
+  "Texts": {
     "Menu:Home": "Home",
     "Welcome": "Welcome",
-    "LongWelcomeMessage": "Welcome to the application. This is a startup project based on the ABP framework. For more information, visit abp.io."
+    "LongWelcomeMessage": "Welcome to the application. This is a startup project based on the ABP framework. For more information, visit abp.io.",
+    //"Menu:BookStore": "Book Store",
+    "Menu:Posts": "Posts",
+    "Actions": "Actions",
+    "Close": "Close",
+    "Delete": "Delete",
+    "Edit": "Edit",
+    "PublishDate": "Publish date",
+    "NewBook": "New book",
+    "Name": "Name",
+    "Type": "Type",
+    "Title": "Title",
+    "Content": "Content",
+    "Price": "Price",
+    "CreationTime": "Creation time",
+    "AreYouSure": "Are you sure?",
+    "AreYouSureToDelete": "Are you sure you want to delete this item?",
+    "Enum:PostType.0": "Undefined",
+    "Enum:PostType.1": "Tech",
+    "Enum:PostType.2": "Life",
+    "Enum:PostType.3": "Book"
+
   }
 }
